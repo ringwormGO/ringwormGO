@@ -4,3 +4,5 @@ IF THERE ARE NO UPDATES THEN PROJECT IS CLOSED
 
 
 Second generation of Chrominium webrowser coming soon.
+
+For Spammator just create C# Visual Studio project or continue with your one, and then copy/paste other code (not designer).
