@@ -54,7 +54,7 @@ Governing Law
 This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of hr.
 
 
-# EULA FOR ALL OTHER PRODUCTS EXCEPT SEARCH ENGINE AND WATERBOX GAME
+# EULA FOR ALL OTHER PRODUCTS EXCEPT SEARCH ENGINE, WATERBOX GAME AND SPAMMATOR
 (Made by EULA generator)
 
 End-User License Agreement (EULA) of all other products
