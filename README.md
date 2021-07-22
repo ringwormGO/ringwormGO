@@ -18,6 +18,9 @@ Minimum max. speed of processor 1.10 GHz
 # REGISTRATOR PROJECT
 For opening our products from our second generation or another web browser.
 
+#BOT
+Voice version coming in C#.
+
 # EULA FOR OS
 (Made by EULA generator)
 
