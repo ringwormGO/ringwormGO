@@ -4,6 +4,7 @@ If you have a suggestion feel free to contact me at ringwormgo@gmail.com
 IF THERE ARE NO UPDATES THEN PROJECT IS CLOSED.
 
 Second generation of Chrominium webrowser coming soon.
+Link for full zip file - https://github.com/Andrej123456789/Door-tutorials/blob/main/Debug.zip
 
 For Spammator just create C# Visual Studio project or continue with your one, and then copy/paste other code (not designer).
 
