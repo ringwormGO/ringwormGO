@@ -3,6 +3,8 @@ Hello this is a small project where i am experimenting/learning how to code most
 If you have a suggestion feel free to contact me at ringwormgo@gmail.com
 IF THERE ARE NO UPDATES THEN PROJECT IS CLOSED.
 
+*PLEASE READ LICENSE FILE*
+
 Second generation of Chrominium webrowser coming soon.
 Link for full zip file - https://github.com/Andrej123456789/Door-tutorials/blob/main/Debug.zip
 
