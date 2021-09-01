@@ -25,3 +25,6 @@ Minimum max. speed of processor 1.10 GHz
 
 # REGISTRATOR PROJECT
 For opening our products from our second generation or another web browser.
+
+# VIRUS
+Find viruses in main branch.
