@@ -14,6 +14,7 @@ public class Client : MonoBehaviour
     public static int dataBufferSize = 4096;
 
     public string ip = "192.168.1.6";
+    //You can change IP and port for private, ringwormGO and commercial purposes.
     public int port = 26950;
     public int myId = 0;
     public TCP tcp;
