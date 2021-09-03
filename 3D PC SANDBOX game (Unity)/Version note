@@ -12,6 +12,15 @@ Version 2.0
   5. Better terrain
   6. Collision added
   7. No MacOS supprot
+  
+ Version 2.1
+  1. Grappling gun added
+  2. New terrain added
+  3. Connection to Game server (read how to connect)
+  4. New cubes added.
+  
+  HOW TO CONNECT TO SERVER
+  Download zip file from Game server folder. Only working for same machine.
 
 Code in Version 1.0 vail for version 1.1
 If you see long name of commit don't worry! For uploading big files, we use GitHub Dektop app.
