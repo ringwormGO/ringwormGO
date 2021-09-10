@@ -12,11 +12,6 @@ For Spammator just create C# Visual Studio project or continue with your one, an
 
 If you want do use Python OS 2.0 you need to install psutil. Go to CMD and type "pip install psutil". Before this, you need install Python.
 
-
-![Exe 8 - Version 1 0 Screenshot 2021 08 16 - 17 28 47 86](https://user-images.githubusercontent.com/83548580/132886509-5eca3183-d726-4c67-bf38-9356067c0729.png)
-![Exe 8 - Version 1 0 Screenshot 2021 08 16 - 17 28 49 43](https://user-images.githubusercontent.com/83548580/132886518-aa17d4a9-68bf-48fe-b3bd-def0c98069f1.png)
-
-
 # SYSTEM REQUIRETMENS
 *For specific programs, read their system requiratmens*
 
@@ -24,10 +19,16 @@ Windows 8.1, Windows 10 or Windows 11 64 bit device
 64MB of free RAM
 Minimum max. speed of processor 1.10 GHz
 
+# PICTURES
+3D PC Sandbox
+![3d Pc Sandbox 2 1 Localhost Screenshot 2021 09 10 - 18 29 58 63](https://user-images.githubusercontent.com/83548580/132886757-f05a4cc5-a50f-4868-aef3-bf2fa6e043d9.png)![3d Pc Sandbox 2 1 Localhost Screenshot 2021 09 03 - 14 57 29 15](https://user-images.githubusercontent.com/83548580/132886893-09d3a03b-c3e4-4861-8d1a-f291319af0f0.png)
+
+LockOS - Beta 1
+![LockOS beta 1](https://user-images.githubusercontent.com/83548580/132886966-b6088063-19b6-43e2-9e52-6351af11bd13.PNG)
+
 
 # REGISTRATOR PROJECT
 For opening our products from our second generation or another web browser.
-
 
 # VIRUS
 Find viruses in main branch.
