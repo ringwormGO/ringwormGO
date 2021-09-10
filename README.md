@@ -13,6 +13,10 @@ For Spammator just create C# Visual Studio project or continue with your one, an
 If you want do use Python OS 2.0 you need to install psutil. Go to CMD and type "pip install psutil". Before this, you need install Python.
 
 
+![Exe 8 - Version 1 0 Screenshot 2021 08 16 - 17 28 47 86](https://user-images.githubusercontent.com/83548580/132886509-5eca3183-d726-4c67-bf38-9356067c0729.png)
+![Exe 8 - Version 1 0 Screenshot 2021 08 16 - 17 28 49 43](https://user-images.githubusercontent.com/83548580/132886518-aa17d4a9-68bf-48fe-b3bd-def0c98069f1.png)
+
+
 # SYSTEM REQUIRETMENS
 *For specific programs, read their system requiratmens*
 
