@@ -4,7 +4,7 @@ If you have a suggestion feel free to contact me at ringwormgo@gmail.com
 If you have a problem, create new issue.
 IF THERE ARE NO UPDATES THEN PROJECT IS CLOSED.
 
-*PLEASE READ LICENSE FILE*
+**PLEASE READ LICENSE FILE**
 
 Our game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
@@ -22,10 +22,6 @@ Minimum max. speed of processor 1.10 GHz
 # PICTURES
 3D PC Sandbox
 ![3d Pc Sandbox 2 1 Localhost Screenshot 2021 09 10 - 18 29 58 63](https://user-images.githubusercontent.com/83548580/132886757-f05a4cc5-a50f-4868-aef3-bf2fa6e043d9.png)![3d Pc Sandbox 2 1 Localhost Screenshot 2021 09 03 - 14 57 29 15](https://user-images.githubusercontent.com/83548580/132886893-09d3a03b-c3e4-4861-8d1a-f291319af0f0.png)
-
-LockOS - Beta 1
-![LockOS beta 1](https://user-images.githubusercontent.com/83548580/132886966-b6088063-19b6-43e2-9e52-6351af11bd13.PNG)
-
 
 # REGISTRATOR PROJECT
 For opening our products from our second generation or another web browser.
