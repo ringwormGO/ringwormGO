@@ -1,14 +1,14 @@
-LockOS is test enviroment for ringOS.
+LockOS is beta version (except BIOS versio) for ringOS.
 Credits: https://www.youtube.com/playlist?list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVyZ
 
-System requiratmens:
-  UEFI PC
-  See general system requiratmens belowž
-  
-  
+System requiratmens for UEFI:
+  UEFI 64-bit PC
+  See general system requiratmens below
   https://github.com/ringwormGO/ringwormGO/tree/main#system-requiretmens
-  https://github.com/ringwormGO/ringwormGO/tree/main#registrator-project (for beta 1 picture above)
+
+System requiratmens and about LockOS BIOS:
+  https://github.com/Andrej123456789/LockOS/tree/main#running-lockos-bios
+  https://github.com/Andrej123456789/LockOS/releases/tag/V1.0 (Download ISO here)
   
-  
-  Source code:
+Source code:
   https://github.com/Andrej123456789/LockOS
