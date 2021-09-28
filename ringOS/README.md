@@ -8,7 +8,7 @@ Credits: https://www.youtube.com/playlist?list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVy
   https://github.com/Andrej123456789/ringOS#system-requiratmens
   https://github.com/ringwormGO/ringwormGO#system-requiretmens
 
-# System requiratmens and about ringOS BIOS:
+# ringOS BIOS:
  https://github.com/Andrej123456789/ringOS#bios-version
  https://github.com/Andrej123456789/ringOS#run-ringos-bios
   
