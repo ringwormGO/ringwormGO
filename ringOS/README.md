@@ -14,3 +14,6 @@ Credits: https://www.youtube.com/playlist?list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVy
   
 # Source code:
   https://github.com/Andrej123456789/ringOS
+
+# Resources
+  https://github.com/Andrej123456789/ringOS#resources-used
