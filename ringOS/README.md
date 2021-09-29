@@ -8,6 +8,7 @@ ringOSY is BIOS operating system
 
 # ringOSY:
   https://github.com/Andrej123456789/ringOS#ringosy
+  https://github.com/ringwormGO/ringwormGO/releases/tag/ringOSY (Version 1)
   
 # Source code:
   https://github.com/Andrej123456789/ringOS
