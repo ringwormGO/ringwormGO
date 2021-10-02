@@ -8,8 +8,6 @@ IF THERE ARE NO UPDATES THEN PROJECT IS CLOSED.
 
 Our game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
-For Spammator just create C# Visual Studio project or continue with your one, and then copy/paste other code (not designer).
-
 If you want do use Python OS 2.0 you need to install psutil. Go to CMD and type "pip install psutil". Before this, you need install Python.
 
 # SYSTEM REQUIRETMENS
