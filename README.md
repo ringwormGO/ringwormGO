@@ -8,7 +8,7 @@ IF THERE ARE NO UPDATES THEN PROJECT IS CLOSED.
 
 Our game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
-If you want do use Python OS 2.0 you need to install psutil. Go to CMD and type "pip install psutil". Before this, you need install Python.
+Python OS 2.0 requires psutil library
 
 # SYSTEM REQUIRETMENS
 *For specific programs, read their system requiratmens*
