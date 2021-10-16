@@ -27,4 +27,4 @@ Minimum max. speed of processor 1.10 GHz
 For opening our products from our second generation or another web browser.
 
 # VIRUS
-Find viruses in main branch.
+https://github.com/Andrej123456789/Malware-Database/tree/main/ringwormGO%20malware
