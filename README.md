@@ -1,11 +1,11 @@
 # ringwormGO
-Hello this is a small project where i am experimenting/learning how to code most of my stuff is made in Visual Studio 2019
+Hello this is a small project where i am experimenting/learning how to code most of my stuff is made in Visual Studio 2019/VS Code
 
-If you have a suggestion feel free to contact me at ringwormgo@gmail.com
+If you have a suggestion or a problem you want to report feel free to contact me at ringwormgo@gmail.com
 
 If you have a problem, create new issue.
 
-IF THERE ARE NO UPDATES THEN PROJECT IS CLOSED.
+IF THERE ARE NO UPDATES THEN PROJECT IS CLOSED (unless we are on vacation)
 
 **PLEASE READ LICENSE FILE**
 
@@ -32,5 +32,5 @@ Minimum max. speed of processor 1.10 GHz
 # REGISTRATOR PROJECT
 For opening our products from our second generation or another web browser.
 
-# VIRUS
+# VIRUSES
 https://github.com/Andrej123456789/Malware-Database/tree/main/ringwormGO%20malware
