@@ -5,6 +5,8 @@ If you have a suggestion or a problem you want to report feel free to contact me
 
 IF THERE ARE NO UPDATES THEN PROJECT IS CLOSED (unless we are on vacation)
 
+We accept contributors for some projects
+
 **PLEASE READ LICENSE FILE**
 
 Python OS 2.0 requires psutil library
