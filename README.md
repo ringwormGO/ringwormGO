@@ -11,6 +11,15 @@ We accept contributors for some projects
 
 Python OS 2.0 requires psutil library
 
+# Schedule
+Usual commits happen every month with small updates/bug fixes in the meantime
+
+VACATIONS: (small updates/bug fixes during vacation may still happen)
+
+Winter vacation: From 21.12 to 6.1
+
+Summer vacation: From 21.6 to 31.7
+
 # Web sites
 Game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
 
