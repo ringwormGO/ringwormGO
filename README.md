@@ -23,6 +23,10 @@ Windows 8.1, Windows 10 or Windows 11 64 bit device
 
 Minimum max. speed of processor 1.10 GHz
 
+# Announcements / Updates
+-Coming soon to Linux near you.
+Yes we are currently working to make all ringwormGO/Door applications accessible on Linux 
+
 # PICTURES
 3D PC Sandbox
 ![3d Pc Sandbox 2 1 Localhost Screenshot 2021 09 10 - 18 29 58 63](https://user-images.githubusercontent.com/83548580/132886757-f05a4cc5-a50f-4868-aef3-bf2fa6e043d9.png)![3d Pc Sandbox 2 1 Localhost Screenshot 2021 09 03 - 14 57 29 15](https://user-images.githubusercontent.com/83548580/132886893-09d3a03b-c3e4-4861-8d1a-f291319af0f0.png)
