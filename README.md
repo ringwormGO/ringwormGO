@@ -25,7 +25,7 @@ Minimum max. speed of processor 1.10 GHz
 
 # Announcements / Updates
 -Coming soon to Linux near you.
-Yes we are currently working to make all ringwormGO/Door applications accessible on Linux 
+-Yes we are currently working to make all ringwormGO/Door applications accessible on Linux 
 
 # PICTURES
 3D PC Sandbox
