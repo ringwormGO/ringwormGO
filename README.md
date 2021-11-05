@@ -39,5 +39,5 @@ On 1.1.2022 most of ringwormGO will be available on Linux
 3D PC Sandbox
 ![3d Pc Sandbox 2 1 Localhost Screenshot 2021 09 10 - 18 29 58 63](https://user-images.githubusercontent.com/83548580/132886757-f05a4cc5-a50f-4868-aef3-bf2fa6e043d9.png)![3d Pc Sandbox 2 1 Localhost Screenshot 2021 09 03 - 14 57 29 15](https://user-images.githubusercontent.com/83548580/132886893-09d3a03b-c3e4-4861-8d1a-f291319af0f0.png)
 
-# VIRUSES
+# MALWARE DATABASE
 https://github.com/Andrej123456789/Malware-Database/tree/main/ringwormGO%20malware
