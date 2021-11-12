@@ -1,6 +1,0 @@
-C# Server for 3D PC Sandbox 3.0
-
-Now you can connect to server only by your device.
-You can connect by telent (you need to enable telnet in Windows features) or Unity game (with Unity scripts).
-
-Credits https://github.com/tom-weiland/tcp-udp-networking/tree/tutorial-part2
