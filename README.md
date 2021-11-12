@@ -22,6 +22,7 @@ Summer vacation: From 21.6 to 31.7
 
 # Web sites
 Game-development Wix website: https://vangutan2.wixsite.com/ringwormgo-games
+3D PC SANDBOX: https://github.com/Andrej123456789/3D-PC-Sandbox
 
 Door Project GitHub repo: https://github.com/Andrej123456789/Door-Project
 
