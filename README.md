@@ -1,3 +1,5 @@
+# THIS REPO WILL NOT BE ACTIVE, WE MOVED PROJECTS TO: https://github.com/ringwormGO-organization/ringwormGO
+
 # ringwormGO
 Hello this is a small project where I am with friend experimenting/learning how to code. Most of our stuff is made in Visual Studio 2019/VS Code
 
